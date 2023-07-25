@@ -1,7 +1,7 @@
 package netology.principles;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //форма
         Post post = new Post();
         post.name = "Иван";
         post.passport = "4444№444444";
